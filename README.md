@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Backend and DEVOPS Engineer from India</h3>
 
 - 📫 How to reach me **pradipgarai441@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradip-garai-1190232a7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Pradip_Garai12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradipgarai2026@gmail.com) 
 
