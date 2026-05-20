@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋 I'm Pradip Garai
 
-<!--
-**Pradip-Garai/Pradip-Garai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer specializing in Backend Engineering
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+* PostgreSQL (Learning)
+
+### Tools & Technologies
+
+* Git & GitHub
+* JWT Authentication
+* bcrypt
+* REST APIs
+* Express Validator
+* Docker (Learning)
+* Redis (Learning)
+
+---
+
+## 📚 Currently Learning
+
+* Node.js Internals
+* System Design
+* Scalable Backend Architecture
+* Redis
+* PostgreSQL
+* Microservices
+
+---
+
+## 🎯 Goal
+
+To become a Tier-1 Backend Engineer and build scalable production-grade systems.
+
+---
+
+## ⚡ About Me
+
+Passionate about backend engineering, distributed systems, and scalable web applications. Currently improving DSA, backend development, and system design for software engineering roles.
