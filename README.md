@@ -5,12 +5,12 @@
 <!--              ANIMATED BANNER              -->
 <!-- ══════════════════════════════════════════ -->
 <div align="center">
-  <img src="CARD/banner.svg" width="100%" alt="Banner de Hector Daniel Ayarachi Fuentes"/>
+  <img src="banner.svg" width="100%" alt="Banner de Hector Daniel Ayarachi Fuentes"/>
 </div>
 
 <!-- Animated typing -->
 <div align="center">
-  <img src="CARD/typing.svg" width="600" alt="Typing animation"/>
+  <img src="typing.svg" width="600" alt="Typing animation"/>
 </div>
 
 <br/>
