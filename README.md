@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pradip Garai</h1>
 <h3 align="center">A passionate Backend and DEVOPS Engineer from India</h3>
 
+<!-- ══════════════════════════════════════════ -->
+<!--              ANIMATED BANNER              -->
+<!-- ══════════════════════════════════════════ -->
+<div align="center">
+  <img src="CARD/banner.svg" width="100%" alt="Banner de Hector Daniel Ayarachi Fuentes"/>
+</div>
+
+<!-- Animated typing -->
+<div align="center">
+  <img src="CARD/typing.svg" width="600" alt="Typing animation"/>
+</div>
+
+<br/>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pradipgarai) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61552263264987) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradip.garai123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pradip-garai-1190232a7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Pradip_Garai12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradipgarai2026@gmail.com) 
