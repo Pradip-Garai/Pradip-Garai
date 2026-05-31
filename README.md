@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradip Garai</h1>
 <h3 align="center">A passionate Backend and DEVOPS Engineer from India</h3>
 
-<!-- ══════════════════════════════════════════ -->
-<!--              ANIMATED BANNER              -->
-<!-- ══════════════════════════════════════════ -->
-<div align="center">
-  <img src="banner.svg" width="100%" alt="Banner de Hector Daniel Ayarachi Fuentes"/>
-</div>
 
-<!-- Animated typing -->
-<div align="center">
-  <img src="typing.svg" width="600" alt="Typing animation"/>
-</div>
-
-<br/>
 
 
 ## 🌐 Socials:
